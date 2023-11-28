@@ -1,1 +1,1 @@
-# 06_B14D52_AI
+# Nhóm 6: Streaming k-Submodular Maximization under Noise subject to Size Constraint
